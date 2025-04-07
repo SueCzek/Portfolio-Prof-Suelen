@@ -1,0 +1,11 @@
+header{
+    background-color: #70BCFA;
+    font-family: Inknut Antiqua;
+    text-align: center;
+    padding: 24px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.titulo-cabecalho{
+    padding: 0 90px;
+}
