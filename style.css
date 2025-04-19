@@ -1,11 +1,40 @@
 header{
     background-color: #70BCFA;
-    font-family: Inknut Antiqua;
-    text-align: center;
     padding: 24px 0;
+    display: grid;
+    text-align:left;
+    font-family: 'roboto';
+    align-items: center;
+}
+.cabecalho{
+        background-color: #70BCFA;
+      
+ }
+
+ section {
+    background-color: #B4EAFE;
+    padding: 24px 24px 24px 24px;
+ }
+ .sessao{
+    display: grid;
+    grid-template-columns: 30% 30% 30% 30%;
+    padding: 24px 0;
+    
+ }
+ .mat{
+    padding: 24px 24px 24px 24px;
+    margin: 24px;
+ }
+.danca{
+    padding: 24px 24px 24px 24px;
+    margin: 24px;
+}
+ .comp {
+    padding: 24px 24px 24px 24px;
+    margin: 24px;
+ }  
+ .footer{
+    background-color: #70BCFA;
+    padding: 0 24px;
     display: flex;
-    justify-content: space-around;
-}
-.titulo-cabecalho{
-    padding: 0 90px;
-}
+    justify-content: center;}
